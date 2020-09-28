@@ -17,8 +17,11 @@ body{
 }
 .nav-item{
     padding-top:10px;
+    margin-left:50px;
+    padding-bottom:10px;
 }
 .links{
+    text-decoration:none;
     font-family:inherit;
     color: inherit;
     list-style:none;
@@ -31,7 +34,7 @@ body{
     font-size:30px;
 }
 
-#nav-logo{
+#nav-logo {
     text-align: center;
     margin-right: auto;
     margin-left:auto;
@@ -39,12 +42,31 @@ body{
     padding-top:30px;
 }
 
+#login a, #nav-logo a{
+    text-decoration:none;
+}
 #login{
     float:right;
     font-size:10px;
     color:inherit;
     padding-top: 30px;
 }
+#nav-logo a:hover{
+    color:orange;
+}
+#login a:hover{
+  color:orange;
+}
+
+.links-hover a{
+    text-decoration:none;
+}
+.links-hover a:hover{
+    color:orange;
+}
+
+
+
 /*------------------------------Prevents from closing instantly*/
 .navbar-collapse.collapse.in {
   display: block!important;
@@ -77,4 +99,8 @@ footer{
   padding: 5%;
   margin:1%;
   color: #fafafa;
+}
+
+.social-networks i:hover{
+    color:orange;
 }
