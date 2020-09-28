@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Red+Hat+Display:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/*------------------------------------------------------------------------------General*/
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+body{
+    color:#16A5B9;
+    font-family:"Red hat display", sans-serif;
+    background-color:#fafafa;
+}
+
+/*--------------------------------------------------Nav*/
+.nav-color{
+    background-color:#fafafa;;
+}
+.nav-item{
+    padding-top:10px;
+}
+.links{
+    font-family:inherit;
+    color: inherit;
+    list-style:none;
+    font-size:18px;
+}
+
+#menu-button{
+    float:left;
+    color:#16A5B9;
+    font-size:30px;
+}
+
+#nav-logo{
+    text-align: center;
+    margin-right: auto;
+    margin-left:auto;
+    color:inherit;
+    padding-top:30px;
+}
+
+#login{
+    float:right;
+    font-size:10px;
+    color:inherit;
+    padding-top: 30px;
+}
+/*------------------------------Prevents from closing instantly*/
+.navbar-collapse.collapse.in {
+  display: block!important;
+}
+
+/*--------------------------------------------------Footer*/
+/*--------------------------------------------------------------------------------Index*/
+/*----------------------------------------------------------------------------Locations*/
+/*----------------------------------------------------------------------------Sign Up*/
