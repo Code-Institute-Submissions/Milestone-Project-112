@@ -50,7 +50,31 @@ body{
   display: block!important;
 }
 
-/*--------------------------------------------------Footer*/
+
 /*--------------------------------------------------------------------------------Index*/
+/*--------------------------------------------------Hero image*/
+
 /*----------------------------------------------------------------------------Locations*/
 /*----------------------------------------------------------------------------Sign Up*/
+/*--------------------------------------------------Footer*/
+footer{
+    background-color:#16A5B9;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.social-networks{
+  text-align:center;
+}
+
+.social-networks li{
+  display:inline;
+}
+
+.social-networks i{
+  font-size:160%;
+  padding: 5%;
+  margin:1%;
+  color: #fafafa;
+}
