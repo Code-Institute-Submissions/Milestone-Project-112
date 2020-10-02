@@ -71,6 +71,19 @@ h5{
     color:orange;
 }
 
+@media screen and (max-width: 1200px ){
+    #login{
+        display:none;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    #nav-logo{
+        float:right;
+        margin:0;
+        padding-top:10px;
+    }
+}
 
 
 /*------------------------------Prevents from closing instantly*/
@@ -154,7 +167,7 @@ h5{
 }
 #membership .card {
     border: none;
-    background: #e5e5e5;
+    background: #e5e5e5; 
 }
 
 .image-flip:hover .backside,
@@ -232,7 +245,7 @@ h5{
 .frontside .card,
 .backside .card {
     min-height: 312px;
-    width:100%;
+
 }
 
 .frontside .card .card-title,
@@ -257,6 +270,8 @@ h5{
     font-size:25px;
     padding-top:20px;
 }
+
+
 /*--------------------------------------------------Reviews*/
 #reviews{
     padding-bottom:50px;
