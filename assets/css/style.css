@@ -120,43 +120,39 @@ h5{
       transform: scale(1.1);
     }
   }
-
-/*--------------------------------------------------Prices*/
-
-/*----------------------------------------------------------------------------Locations*/
-/*----------------------------------------------------------------------------Sign Up*/
-/*--------------------------------------------------Footer*/
-footer{
-    background-color:#16A5B9;
-    left: 0;
-    bottom: 0;
-    width: 100%;
+/*--------------------------------------------------What we offer you*/
+.offer-you h1{
+    padding-top:100px;
 }
-.social-networks{
-  text-align:center;
+.offer-you p{
+    padding-top:40px;
+    font-size:20px;
+    font-family:"red hat display"sans-serif;
 }
 
-.social-networks li{
-  display:inline;
+/*--------------------------------------------------Our Team*/
+.our-team h1{
+    text-align:center;
+    padding-top:100px;
 }
-
-.social-networks i{
-  font-size:160%;
-  padding: 5%;
-  margin:1%;
-  color: #fafafa;
+.our-team img{
+    width:100%;
+    height:100%;
 }
+ .our-team p{
+     text-align:center;
+     font-size:20px;
+ }
 
-.social-networks i:hover{
-    color:orange;
+.our-team h5{
+    padding:0;
+    margin:0;
 }
-
-
-
-
-
-
-#team .card {
+/*--------------------------------------------------Memberships*/
+#membership{
+    padding-top:40px;
+}
+#membership .card {
     border: none;
     background: #e5e5e5;
 }
@@ -204,7 +200,7 @@ footer{
     position: absolute;
     top: 0;
     left: 0;
-    background: white;
+    
     -webkit-transform: rotateY(-180deg);
     -moz-transform: rotateY(-180deg);
     -o-transform: rotateY(-180deg);
@@ -236,7 +232,7 @@ footer{
 .frontside .card,
 .backside .card {
     min-height: 312px;
-    width:300px;
+    width:100%;
 }
 
 .frontside .card .card-title,
@@ -260,5 +256,74 @@ footer{
 .card-text h1{
     font-size:25px;
     padding-top:20px;
+}
+/*--------------------------------------------------Reviews*/
+#reviews{
+    padding-bottom:50px;
+}
+.badge {
+    background-color:#16a5b9;
+    color:#fafafa;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+.badge i {
+    font-size: 20px;
+    font-weight: 200
+}
+
+.about-rating {
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 10px
+}
+
+.total-ratings {
+    font-size: 12px
+}
+
+.bg-custom {
+    background-color: #b7dd29 !important
+}
+
+.text-custom {
+    color: #b7dd29 !important
+}
+
+.progress {
+    margin-top: 2px;
+    border-radius: 0px;
+    padding-left: 0px
+}
+
+/*------------------------------------------*/
+
+/*----------------------------------------------------------------------------Locations*/
+/*----------------------------------------------------------------------------Sign Up*/
+/*--------------------------------------------------Footer*/
+footer{
+    background-color:#16A5B9;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.social-networks{
+  text-align:center;
+}
+
+.social-networks li{
+  display:inline;
+}
+
+.social-networks i{
+  font-size:160%;
+  padding: 5%;
+  margin:1%;
+  color: #fafafa;
+}
+
+.social-networks i:hover{
+    color:orange;
 }
 
