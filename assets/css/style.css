@@ -137,9 +137,10 @@ h5{
     }
   }
 
-  @media only screen and (max-width: 600px){
-      #cover h1{
-          top:45%;
+  @media only screen and (max-width: 800px){
+      #cover{
+          padding-right:20px;
+          top:10%;
       }
   }
 /*--------------------------------------------------What we offer you*/
@@ -294,6 +295,11 @@ h5{
     #membership{
         display:none;
     }
+
+    .our-team p{
+     text-align:center;
+     font-size:15px;
+ }
 
 }
 .boxed {
@@ -470,13 +476,12 @@ h5{
 
 .loc-cover h1{
     font-size:20px;
-
 }
 
 .newcastle{
 
 width:100%;
-height:200px;
+height:600px;
 background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/newcastle1.jpg)no-repeat center center;
 
 
@@ -485,7 +490,7 @@ background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0
 .london{
 
     width:100%;
-    height:200px;
+    height:600px;
     background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/london1.jpg)no-repeat center center;
  
 }
@@ -493,23 +498,21 @@ background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0
 .manchester{
 
     width:100%;
-    height:200px;
+    height:600px;
     background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/manchester1.jpg)no-repeat center center;
  
 }
 
 .map-pad{
     display:none;
-    
-
-    
 }
 
 .text-pad{
-    margin-left:auto;
-    margin-right:auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:20px;
     text-align:center;
-    width:100%;
+    width:500px;
 }
 
 .gympics{
@@ -595,12 +598,24 @@ background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0
 
 @media screen and (max-width: 1000px ){
 
+    .signup-cover{
+        top:10%;
+        margin-top:0;
+    }
+    .signup-cover label{
+        margin-top:20px;
+    }
+    .signup-cover input{
+        margin-bottom:20px;
+    }
+
     #mobile-signup{
         display:block;
     }
     #mobile-signup form{
-
-        width:80%;
+ 
+        padding-right: 25px;
+        width:90%;
     }
 
     #signup-form{
@@ -620,7 +635,7 @@ background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0
   padding: 0 4px;
 }
 
-/* Create four equal columns that sits next to each other */
+
 .column {
   flex: 25%;
   max-width: 25%;
@@ -633,7 +648,7 @@ background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0
   width: 100%;
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
+
 @media screen and (max-width: 800px) {
   .column {
     flex: 50%;
@@ -641,13 +656,13 @@ background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0
   }
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
     flex: 100%;
     max-width: 100%;
   }
 }
+
 
 
 /*--------------------------------------------------Footer*/
