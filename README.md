@@ -1,4 +1,4 @@
-<img src="asstes/images/responsive.png">
+<img src="assets/images/responsive.png">
 
 Welcome ryanjbm,
 
