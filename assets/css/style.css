@@ -15,6 +15,10 @@ body{
 p{
     color:black;
 }
+
+a{
+    
+}
 /*--------------------------------------------------Nav*/
 .nav-item{
     padding-top:10px;
@@ -389,15 +393,19 @@ h5{
     background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/manchester1.jpg)no-repeat center center;
  
 }
-
-.loc-cover { 
+.loc-cover a{
     color:#fafafa;
+    text-decoration:none;
+    
+}
+.loc-cover { 
     position: absolute; 
     text-align:center;
     letter-spacing: 4px;
     top: 35%; 
     width: 100%; 
 }
+
 
 /*----------------------------------------------------------------------------Maps*/
 .map-pad{
