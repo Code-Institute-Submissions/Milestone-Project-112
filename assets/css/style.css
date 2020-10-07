@@ -15,14 +15,7 @@ body{
 p{
     color:black;
 }
-h5{
-    text-align:center;
-    padding-bottom:30px;
-}
 /*--------------------------------------------------Nav*/
-.nav-color{
-    background-color:#fafafa;;
-}
 .nav-item{
     padding-top:10px;
     margin-left:50px;
@@ -44,8 +37,6 @@ h5{
 
 #nav-logo {
     text-align: center;
-    margin-right: auto;
-    margin-left:auto;
     color:inherit;
     padding-top:20px;
 }
@@ -88,13 +79,13 @@ h5{
 }
 
 
-/*------------------------------Prevents from closing instantly*/
+/*------------------------------Prevents menu from closing instantly*/
 .navbar-collapse.collapse.in {
   display: block!important;
 }
 
 
-/*--------------------------------------------------------------------------------Index*/
+/*--------------------------------------------------------------------------------------------------------------------------Index*/
 /*--------------------------------------------------Hero image*/
 #hero-section{
     overflow:hidden;
@@ -150,7 +141,6 @@ h5{
 .offer-you p{
     padding-top:40px;
     font-size:20px;
-    font-family:"red hat display"sans-serif;
 }
 
 /*--------------------------------------------------Our Team*/
@@ -178,6 +168,11 @@ h5{
 #membership .card {
     border: none;
     background: #e5e5e5; 
+}
+
+h5{
+    text-align:center;
+    padding-bottom:30px;
 }
 
 .image-flip:hover .backside,
@@ -275,7 +270,6 @@ h5{
     font-size:20px;
     padding-top:15px;
 }
-
 .card-text h1{
     font-size:25px;
     padding-top:20px;
@@ -371,9 +365,6 @@ h5{
 
 /*----------------------------------------------------------------------------------------------------------------------------------------------Locations*/
 /*----------------------------------------------------------------------------Location Images*/
-#loc-section{
-    
-}
 
 .newcastle{
     object-fit:cover;
@@ -407,7 +398,6 @@ h5{
     top: 35%; 
     width: 100%; 
 }
-/*----------------------------------------------------------------------------Image animation*/
 
 /*----------------------------------------------------------------------------Maps*/
 .map-pad{
