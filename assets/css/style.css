@@ -141,24 +141,30 @@ p{
 /*--------------------------------------------------What we offer you*/
 .offer-you h1{
     padding-top:100px;
+    padding-bottom:30px;
 }
 .offer-you p{
     padding-top:0px;
     font-size:100%;
-    padding-left:80px;
-    padding-right:80px;
+    padding-left:200px;
+    padding-right:200px;
 }
 
 
 /*--------------------------------------------------Our Team*/
+.card-body{
+    height:300px;
+}
 .our-team h1{
     text-align:center;
     padding-top:100px;
 }
+
 .our-team img{
     width:100%;
-    height:100%;
+    height:250px;
 }
+
  .our-team p{
      text-align:center;
      font-size:100%;
@@ -168,10 +174,13 @@ p{
     padding:0;
     margin:0;
 }
+
 /*--------------------------------------------------Memberships*/
+
 #membership{
     padding-top:40px;
 }
+
 #membership .card {
     border: none;
     background: #e5e5e5; 
@@ -387,11 +396,14 @@ h5{
 }
 /*----------------------------------------------------------------------------------------------------------------------------------------------Locations*/
 /*----------------------------------------------------------------------------Location Images*/
+#loc-section{
 
+}
 .newcastle{
     object-fit:cover;
     width:100%;
     height:800px;
+ 
     background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/newcastle1.jpg)no-repeat center center;
    
 
@@ -400,6 +412,7 @@ h5{
     object-fit:cover;
     width:100%;
     height:800px;
+  
     background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/london1.jpg)no-repeat center center;
  
 }
@@ -408,6 +421,7 @@ h5{
     object-fit:cover;
     width:100%;
     height:800px;
+
     background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/manchester1.jpg)no-repeat center center;
  
 }
