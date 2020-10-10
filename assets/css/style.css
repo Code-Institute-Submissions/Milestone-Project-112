@@ -333,8 +333,10 @@ h5{
 
 /*--------------------------------------------------Reviews*/
 #reviews{
+    
+    overflow:hidden;
     margin-top:100px;
-    padding-bottom:50px;
+    margin-bottom:50px;
 }
 
 #review-title{
@@ -612,6 +614,10 @@ background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0
         display:none;
     }
 
+.input[type=submit]{
+    background-color:#16A5B9;
+}
+
 @media screen and (max-width: 1000px ){
 
     .signup-cover{
@@ -683,11 +689,11 @@ background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0
 
 /*--------------------------------------------------Footer*/
 footer{
-    margin-top:30px;
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
     background-color:#16A5B9;
-    left: 0;
-    bottom: 0;
-    width: 100%;
+    height:fit-content;
 }
 .social-networks{
   text-align:center;
@@ -700,7 +706,6 @@ footer{
 .social-networks i{
   font-size:160%;
   padding: 5%;
-  margin:1%;
   color: #fafafa;
 }
 
