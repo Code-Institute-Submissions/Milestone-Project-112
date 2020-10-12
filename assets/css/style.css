@@ -16,35 +16,34 @@ p{
     color:black;
 }
 
+
 /*--------------------------------------------------Nav*/
 .nav-item{
     padding-top:10px;
-    margin-left:50px;
+    margin-left:0px;
     padding-bottom:10px;
 }
+#nav-logo{
+    padding-left:110px;
+    text-decoration:none;
+}
+
 .links{
     text-decoration:none;
     font-family:inherit;
     color: inherit;
     list-style:none;
     font-size:18px;
-    
 }
 
 #menu-button{
-    float:left;
+    float:center;
     color:#16A5B9;
     font-size:30px;
 }
 
-#nav-logo {
-    text-align: center;
-    color:inherit;
-    padding-top:20px;
-    padding-left:90px;
-}
 
-#login a, #nav-logo a{
+#login a, .nav-logo a{
     text-decoration:none;
 }
 #login{
@@ -53,7 +52,7 @@ p{
     color:inherit;
     padding-top: 30px;
 }
-#nav-logo a:hover{
+.nav-logo a:hover{
     color:orange;
 }
 #login a:hover{
@@ -610,7 +609,6 @@ background:linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0
 
 .text-pad{
     padding-left:5px;
-    padding-right:0;
     width:100%;
     text-align:left;
 }

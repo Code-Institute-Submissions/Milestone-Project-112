@@ -16,34 +16,37 @@
 <body>
 <!--Navigation Bar + Drop Down Menu-->
 <header>
-<nav class="navbar navbar-expand-xxl navbar-light nav-color">  
-  <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-    <span id="menu-button"><i class="fas fa-bars"></i></span>
-  </button>
-    <div id="nav-logo top">
-        <a class="links" href="index.html"><h1>GYM CITY</h1></a>
-    </div>
-    <div id="login">
-        <a class="links" href="sign-up.html"><h3><i class="fas fa-user-plus"></i> Join Us</h3></a>
-    </div>
-  <div class="links-hover collapse navbar-collapse" id="navbarTogglerDemo01">
-    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-      <li class="nav-item active">
-        <a class="links" href="index.html">Home</a>
-      </li>
-      <li class="nav-item">
-        <a class="links" href="locations.html">Locations</a>
-      </li>
-      <li class="nav-item">
-        <a class="links" href="gallery.html">Gallery</a>
-      </li>
-      <li class="nav-item">
-        <a class="links" href="sign-up.html">Sign Up<span class="sr-only">(current)</span></a>
-      </li>
-    </ul>
-  </div>
-</nav>
-</header>
+         <nav class="navbar navbar-expand-xxl navbar-light nav-color">
+            <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+            <span id="menu-button"><i class="fas fa-bars"></i></span>
+            </button>
+               <a class="links" href="index.html">
+                  <h1 id="nav-logo">GYM CITY</h1>
+               </a>
+
+            <div id="login">
+               <a class="links" href="sign-up.html">
+                  <h3><i class="fas fa-user-plus"></i> Join Us</h3>
+               </a>
+            </div>
+            <div class="links-hover collapse navbar-collapse" id="navbarTogglerDemo01">
+               <ul class="navbar-nav mr-auto mt-2 mt-lg-0 ">
+                  <li class="nav-item">
+                     <a class="links" href="index.html">Home <span class="sr-only">(current)</span></a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="links" href="locations.html">Locations</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="links" href="gallery.html">Gallery</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="links" href="sign-up.html">Sign Up</a>
+                  </li>
+               </ul>
+            </div>
+         </nav>
+      </header>
 <!--Form-->
 <section id="signup-form">
     <div class="row">
@@ -127,11 +130,53 @@
     <h1>Any other enquiries please contact us at: <a href = "mailto:gymcity@outlook.com">gymcity@outlook.com</a></h1>
 </section>
 
+
+<section id="mob-signup">
+         <div class="container">
+            <div class="boxed">
+               <h1>Premium</h1>
+               <ul class="mob-card-text">
+                  <li>24/7 access</li>
+                  <li>Use any of our facilities</li>
+                  <li>5 free PT sessions a month</li>
+                  <li>Access to any of our classes</li>
+               </ul>
+               <button class="btn-info btn-lg" onclick="window.location.href='sign-up.html';">
+               £35
+               </button>
+            </div>
+            <div class="boxed">
+               <h1>Standard</h1>
+               <ul class="mob-card-text">
+                  <li>24/7 access</li>
+                  <li>Use up to 2 of our facilities</li>
+                  <li>2 free PT sessions a month</li>
+                  <li>Access to any of our classes</li>
+               </ul>
+               <button class="btn-info btn-lg" onclick="window.location.href='sign-up.html';">
+               £25
+               </button>
+            </div>
+            <div class="boxed">
+               <h1>Student</h1>
+               <ul class="mob-card-text">
+                  <li>Off-Peak access</li>
+                  <li>Use one of our facilities</li>
+                  <li>1 free PT sessions a month</li>
+                  <li>Access to any of our classes</li>
+               </ul>
+               <button class="btn-info btn-lg" onclick="window.location.href='sign-up.html';">
+               £20
+               </button>
+            </div>
+         </div>
+      </section>
+
+
 <div class="top-btn">
 <button class="btn-info btn-lg" onclick="window.location.href='#top';">back to top
     </button>
     </div>
-
 <!--Footer + Socials-->
 <footer>
 <ul class="social-networks">
