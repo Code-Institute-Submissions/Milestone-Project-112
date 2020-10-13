@@ -15,10 +15,10 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 
 <h2> Goals
   
-# To make GYM CITY look premium and reliable to the customer
-# To create an aesthetically pleasing and easy to navigate webpage for the customer
-# Easy for the customer to sign up
-# To make a responsive and eyecatching website across all devices
+* To make GYM CITY look premium and reliable to the customer
+* To create an aesthetically pleasing and easy to navigate webpage for the customer
+* Easy for the customer to sign up
+* To make a responsive and eyecatching website across all devices
 
  
 ## Updates Since The Instructional Video
