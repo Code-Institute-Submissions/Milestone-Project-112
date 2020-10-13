@@ -15,7 +15,7 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 
 <h2> Goals
   
-  
+  <br>
   
 * To make GYM CITY look premium and reliable to the customer
 * To create an aesthetically pleasing and easy to navigate webpage for the customer
