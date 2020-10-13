@@ -11,24 +11,16 @@ Gym City is a webpage built to get users to sign up to the gym as well as inform
 
 This is my first Milestone Project for my Full Stack Development Program at Code Institute, in which i was given instructions to make a static and responsive website including at least 3 pages. In creating this page i used CSS3 and HTML5.
 
-## Gitpod Reminders
+## UX
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+<h2> Goals
+  
+# To make GYM CITY look premium and reliable to the customer
+# To create an aesthetically pleasing and easy to navigate webpage for the customer
+# Easy for the customer to sign up
+# To make a responsive and eyecatching website across all devices
 
-`python3 -m http.server`
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
+ 
 ## Updates Since The Instructional Video
 
 We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
