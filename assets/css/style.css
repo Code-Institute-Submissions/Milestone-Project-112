@@ -114,7 +114,7 @@ p {
 .hero {
 	width: 100%;
 	height: 800px;
-	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/gym.png)no-repeat center center;
+	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/hero-image.jpg)no-repeat center center;
 	animation-name: hero-zoom;
 	animation-duration: 5s;
 	animation-fill-mode: forwards;
@@ -461,21 +461,21 @@ h5 {
 	object-fit: cover;
 	width: 100%;
 	height: 800px;
-	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/newcastle1.jpg)no-repeat center center;
+	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/newcastle.jpg)no-repeat center center;
 }
 
 .london {
 	object-fit: cover;
 	width: 100%;
 	height: 800px;
-	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/london1.jpg)no-repeat center center;
+	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/london.jpg)no-repeat center center;
 }
 
 .manchester {
 	object-fit: cover;
 	width: 100%;
 	height: 800px;
-	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/manchester1.jpg)no-repeat center center;
+	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/manchester.jpg)no-repeat center center;
 }
 
 .loc-cover a {
@@ -573,17 +573,17 @@ h5 {
 	.newcastle {
 		width: 100%;
 		height: 600px;
-		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/newcastle1.jpg)no-repeat center center;
+		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/newcastle.jpg)no-repeat center center;
 	}
 	.london {
 		width: 100%;
 		height: 600px;
-		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/london1.jpg)no-repeat center center;
+		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/london.jpg)no-repeat center center;
 	}
 	.manchester {
 		width: 100%;
 		height: 600px;
-		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/manchester1.jpg)no-repeat center center;
+		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/manchester.jpg)no-repeat center center;
 	}
 	.map-pad {
 		display: none;
@@ -606,17 +606,17 @@ h5 {
 	.newcastle {
 		width: 100%;
 		height: 200px;
-		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/newcastle1.jpg)no-repeat center center;
+		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/newcastle.jpg)no-repeat center center;
 	}
 	.london {
 		width: 100%;
 		height: 200px;
-		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/london1.jpg)no-repeat center center;
+		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/london.jpg)no-repeat center center;
 	}
 	.manchester {
 		width: 100%;
 		height: 200px;
-		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/manchester1.jpg)no-repeat center center;
+		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/manchester.jpg)no-repeat center center;
 	}
 	.text-pad {
 		padding-left: 5px;
