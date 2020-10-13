@@ -1,4 +1,4 @@
-<img src="assets/images/responsive.png">
+<img src="assets/images/responsive.jpg">
 
 
 ## GYM CITY
