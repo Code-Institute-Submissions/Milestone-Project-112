@@ -13,7 +13,7 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 
 ## UX
 
-<h2> Goals
+# Goals
   
 
   
