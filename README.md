@@ -23,3 +23,10 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 * To make a responsive and eyecatching website across all devices
 
  
+## User Stories
+
+1. I am a user who would like to sign up to GYM CITY to begin my fitness journey
+1. I am a user who is currrently a member of another gym looking at what GYM CITY has to offer instead
+1. I am a manager of a different gym looking at what the competition has to offer
+1. I am a user who primarily uses a mobile phone and would like the website to function and look good on my mobile
+1. I am a user who is trying to find out the locations of GYM CITY in the UK
