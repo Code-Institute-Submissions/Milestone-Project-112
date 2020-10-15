@@ -44,7 +44,7 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 1. I then took this wireframe and proceeded to put it together on gitpod, changing some minor aspects of the website and adding new features that I discovered along the way. The main change I made was adding the "Gallery Page" which initially wasn't on my wireframe.
 
 
-## Figma Wireframe
+## [Figma](https://www.figma.com) Wireframe
 > This includes the wireframes for both desktop and mobile device layouts
 <img src="assets/images/figma.jpg">
 
@@ -85,21 +85,21 @@ Throughout the process of coding my website and input from other people, a few i
   * Base language for the project used to add content to the website
 * CSS3
   * Used to style the HTML code
-* Bootstrap Framework
+* [Bootstrap Framework](https://getbootstrap.com)
   * Used Bootstraps grid system and styles for buttons to help the web page be more responsive for mobile layouts
-* FontAwesome
+* [FontAwesome](https://fontawesome.com)
   * Used 3 different FontAwesome icons for my website
-* Google Fonts
+* [Google Fonts](https://fonts.google.com)
   * Used the Red Hat Display font from here
-* Google Images
+* [Google Images](https://www.google.co.uk/imghp?hl=en&tab=wi&authuser=0&ogbl)
   * Used for all of my images, each was checked to be copyright free
-* W3C Schools
+* [W3 Schools](https://www.w3schools.com)
   * Used for help with the code in my project, I found it very useful for my form and gallery page
-* W3C Markup Validation
+* [W3C Markup Validation](https://validator.w3.org)
   * Used this to check that my HTML and CSS code were both valid throughout my project
-* Stack Overflow
+* [Stack Overflow](https://stackoverflow.com)
   * I used this to help me with small issues I encountered when writing my code
-* CodePen
+* [CodePen](https://codepen.io)
   * I used this to learn how to implement spinning cards and the review box in my project
 
 
