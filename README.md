@@ -84,3 +84,19 @@ Throughout the process of coding my website and input from other people, a few i
   * Base language for the project used to add content to the website
 * CSS3
   * Used to style the HTML code
+* Bootstrap Framework
+  * Used Bootstraps grid system and styles for buttons to help the webpage be more responsive for mobile layouts
+* FontAwesome
+  * Used 3 different FontAwesome icons for my website
+* Google Fonts
+  * Used the Red Hat Display font from here
+* Google Images
+  * Used for all of my images, each was checked to be copyright free
+* W3C Schools
+  * USed for help on code in my project, i found it very useful for my form and galery page
+* W3C Markup Validation
+  * Used this to check that my HTML and CSS code were both valid throughout my project
+* Stack Overflow
+  * I used this to help me with small issues I encountered when writing my code
+* CodePen
+  * I used this to learn how to implement spinning cards and the review box in my project
