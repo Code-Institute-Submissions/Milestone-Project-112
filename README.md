@@ -1,6 +1,6 @@
 # GYM CITY : A Gym Website
 
-Live Demo
+[Live Demo](https://ryanjbm.github.io/Milestone-Project-1/)
 
 <img src="assets/images/responsive.jpg">
 
