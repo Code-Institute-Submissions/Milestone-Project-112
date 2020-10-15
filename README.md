@@ -1,42 +1,103 @@
-<img src="assets/images/responsive.png">
+# GYM CITY : A Gym Website
+
+[Live Demo](https://ryanjbm.github.io/Milestone-Project-1/)
+
+<img src="assets/images/responsive.jpg">
 
 
-## GYM CITY
+# Introduction
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+Gym City is a web page built to get users to sign up to the gym as well as informing them of the locations, facilities, prices and members of staff. Personally, I have always been passionate about fitness so the opportunity to build a website for a gym excited me, I made the website user friendly and including the content that I'd like to see if I were going to join a new gym.
 
-## Gitpod Reminders
+This is my first Milestone Project for my Full Stack Development Program at Code Institute, in which i was given instructions to make a static and responsive website including at least 3 pages. In creating this website I used CSS3 and HTML5.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+# UX
 
-`python3 -m http.server`
+## Goals
+  
 
-A blue button should appear to click: *Make Public*,
+  
+* To make GYM CITY look premium and reliable to the customer
+* To create an aesthetically pleasing and easy to navigate webpage for the customer
+* Easy for the customer to sign up
+* To make a responsive and eye catching website across all devices
 
-Another blue button should appear to click: *Open Browser*.
+ 
+## User Stories
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+1. I am a user who would like to sign up to GYM CITY to begin my fitness journey
+1. I am a user who is currently a member of another gym looking at what GYM CITY has to offer instead
+1. I am a manager of a different gym looking at what the competition has to offer
+1. I am a user who primarily uses a mobile phone and would like the website to function and look good on my mobile
+1. I am a user who is trying to find out the locations of GYM CITY in the UK
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+## Design Process
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+1. I started my process by planning out what I wanted to include in my website and what the pages should be. I settled on including a "Home Page", "Locations Page", "Gallery Page" and a. "Sign Up Page". 
+1. I wanted to keep my website aesthetically pleasing, so I decided on a simple but nice to look at colour scheme and one font to use throughout the entire web page. The colours and font I used were: <br>
+   #fafafa <br>
+   #16A5B9 <br>
+   Red Hat Display <br>
+ I found this combination nice to look at yet still maintained the modern, streamlined appearance I was aiming for.
+1. I wireframed my project using FIGMA. I used the colour wheel to find the exact shade I wanted and used this throughout the project. I created my pages for desktop layout first setting out the basics of the page and once that was completed I made the mobile version of the website. I made changes throughout the design process following input from family, friends and my mentor
+1. I then took this wireframe and proceeded to put it together on gitpod, changing some minor aspects of the website and adding new features that I discovered along the way. The main change I made was adding the "Gallery Page" which initially wasn't on my wireframe.
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+## Figma Wireframe
+> This includes the wireframes for both desktop and mobile device layouts
+<img src="assets/images/figma.jpg">
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed along with other common files.
+Throughout the process of coding my website and input from other people, a few improvements were made to the website to not only make it look more profesional but also to include more useful features.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+# Features
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Feaures throughout pages
+* A Navigation bar header which includes a GYM CITY logo which takes you back to the home page, a join us button which takes you to the Sign up page and a burger drop down menu button which shows the links to all 4 pages. When hovering over any part of the navbar the text becomes orange
+* A back to the top button available at the bottom of every page, when clicked automatically scrolls back to the top
+* Footer remains the same across all pages with social media links turning orange when hovering over them
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Home
+* Main Image zooms in when the page loads each time
+* Spinning boxes revealing membership prices and features when hover over
+* Review box showing percentages of how many people vote for each star
+* Cards showing the managers and content about the gym
 
---------
+## Locations
+* Three images of each city, when click on the text of one it scrolls down to the part of the page where it talks about that gym
+* Embedded maps showing the locations
+* Information and pictures of each facility
+* Join us button, redirecting to the sign up page when clicked
 
-Happy coding!
+## Gallery
+* Images on a responsive grid of all the gyms
+
+## Sign Up
+* Form for user to fill in so they can sign up, all fields are required and includes a dropdown menu for the type of membership
+* Link to the email for other enquiries which opens in a new tab
+* Three cards showing the membership prices and what they include
+
+# Technologies Used
+
+## Languages
+* HTML5
+  * Base language for the project used to add content to the website
+* CSS3
+  * Used to style the HTML code
+* Bootstrap Framework
+  * Used Bootstraps grid system and styles for buttons to help the web page be more responsive for mobile layouts
+* FontAwesome
+  * Used 3 different FontAwesome icons for my website
+* Google Fonts
+  * Used the Red Hat Display font from here
+* Google Images
+  * Used for all of my images, each was checked to be copyright free
+* W3C Schools
+  * Used for help with the code in my project, I found it very useful for my form and gallery page
+* W3C Markup Validation
+  * Used this to check that my HTML and CSS code were both valid throughout my project
+* Stack Overflow
+  * I used this to help me with small issues I encountered when writing my code
+* CodePen
+  * I used this to learn how to implement spinning cards and the review box in my project
