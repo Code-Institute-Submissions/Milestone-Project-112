@@ -129,3 +129,51 @@ I tested my page on the following browsers and found it worked on all
 * Safari
 * Chrome
 * Firefox
+
+## Issues
+
+When writing my code I intended on having the back to top button always on the screen however that required JavScript so i had to fix that to the bottom of the page instead. I also had a few issues with the path file for the images I uploaded however that was fixed after some research on stack overflow.
+
+# Deployment
+
+## Deploying
+
+I created my Milestone project using the GitPod environment and pushing it to Github after compelting each section, this made sure that my project had good version control in place incase I needed to change some of the work. To creat a live version of my project for people to view I did the following:
+
+* Went to my Milestone Project repository on GitHub
+* Went to settings and scrolled down to GitHub Pages
+* Selected the master branch as source which then gave me the link to include in my ReadMe for people to view
+* You can view my project here: Gym City
+
+# Credits
+
+## Content
+
+The content of my website is fictional written by me and is not a real gym
+
+## Media
+
+Images I used were free to use but came from the following websites
+
+* Pexels
+* Google Images
+
+Code snippets that I used for my spinning boxes and review box came from teh following website
+
+* CodePen
+
+## Acknowledgments
+
+# Pages for information
+
+* Stack Overflow
+* W3schools
+* W3c
+* CodePen
+* Bootstrap
+
+Thank you to the following fr the support on issues and for offering advice on my project throughout:
+* Code Institute Mentor Seun Owonikoko
+* Code Institute Tutor
+* Code Institute Slack Community
+* Family and friends for constructive criticism
