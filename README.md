@@ -35,6 +35,15 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 ## Design Process
 
 1. I started my process by planning out what I wanted to include in my website and what the pages should be. I settled on including a "Home Page", "Locations Page", "Gallery Page" and a. "Sign Up Page". 
-1. I wanted to keep my website aesthetically pleasing so I decied on a simple but nice to look at colour scheme of an off white colour as the page colour ("#fafafa") and a baby blue colour for text and buttons ("#16A5B9"), I found this combination nice to look at yet still remaining the modern streamlined appearence
+1. I wanted to keep my website aesthetically pleasing so I decied on a simple but nice to look at colour scheme and one font to use throughout the entire webpage. The colours and font I used were: <br>
+   #fafafa <br>
+   #16A5B9 <br>
+   Red Hat Display <br>
+I found this combination nice to look at yet still maintained the modern streamlined appearence I was aiming for.
 1. I wireframed my project using FIGMA. I used the colour wheel to find the exact shade I wanted and used this throughout the project. I created my pages for desktop layout first setting out the basics of the page and once that was completed i made the mobile version for the website. I made changes throughout the design process following input by family, friends and my mentor
 1. I then took this wireframe and proceeded to putting it together on gitpod, changing some minor aspects of teh website and adding new feautres that i discovered along the way. The main change i mae was adding the "Gallery Page" which initially wasnt on my wireframe.
+
+## Figma Wireframe
+<img src="assets/images/figma.jpg">
+
+Throughout the process of coding my website and input from other people, a few improvements were made to the website to not only make it look more proffesional but also to include more useful features.
