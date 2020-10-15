@@ -48,3 +48,39 @@ I found this combination nice to look at yet still maintained the modern streaml
 <img src="assets/images/figma.jpg">
 
 Throughout the process of coding my website and input from other people, a few improvements were made to the website to not only make it look more proffesional but also to include more useful features.
+
+
+# Features
+
+## Feaures throughout pages
+* A Navigation bar header which includes a GYM CITY logo which takes you back to he home page, a join us button which takes you to the Sign up page and a burger drop down menu button which shows the links to all 4 pages. When hovering over any part of the navbar the text becomes orange
+* A back to the top button availabe at the bottom of every page, when clickeed automatically acrolls back to the top
+* Footer remains the same across all pages with social media links turning orange when hovering over them
+
+## Home
+* Main Image zooms in when the page loads each time
+* Spinning boxes revealing membership prices and features when hover over
+* Review box showing percentages of how many people vote for each star
+* Cards showing the managers and content about the gym
+
+## Locations
+* Three images of each city, when click on the text of one it scrolls down to the part og the page where it talks about that gym
+* Embedded maps showing the locations
+* Information and pictures of each facility
+* Join us button redrecting to the sign up page when clicked
+
+## Gallery
+* Images on a responsive grid of all the gyms
+
+## Sign Up
+* Form for user to fill in so they can sign up, all fields are required and includes a dropdown menu for the type of membership
+* Link to the email for other enquiries which opens in a new tab
+* Three cards showing the membership prices and what they include
+
+# Technologies Used
+
+## Languages
+* HTML5
+  * Base language for the project used to add content to the website
+* CSS3
+  * Used to style the HTML code
