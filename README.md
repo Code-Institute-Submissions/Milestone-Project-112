@@ -7,7 +7,7 @@ Live Demo
 
 # Introduction
 
-Gym City is a webpage built to get users to sign up to the gym as well as informing them of the locations, facilities, prices and members of staff. Personally I have always been passionate about fitness so the opportunity to build a website for a gym excited me, I made the webiste user friendly and includng the content that i'd like to see if i were going to join a new gym.
+Gym City is a web page built to get users to sign up to the gym as well as informing them of the locations, facilities, prices and members of staff. Personally, I have always been passionate about fitness so the opportunity to build a website for a gym excited me, I made the website user friendly and including the content that I'd like to see if I were going to join a new gym.
 
 This is my first Milestone Project for my Full Stack Development Program at Code Institute, in which i was given instructions to make a static and responsive website including at least 3 pages. In creating this website I used CSS3 and HTML5.
 
@@ -20,13 +20,13 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 * To make GYM CITY look premium and reliable to the customer
 * To create an aesthetically pleasing and easy to navigate webpage for the customer
 * Easy for the customer to sign up
-* To make a responsive and eyecatching website across all devices
+* To make a responsive and eye catching website across all devices
 
  
 ## User Stories
 
 1. I am a user who would like to sign up to GYM CITY to begin my fitness journey
-1. I am a user who is currrently a member of another gym looking at what GYM CITY has to offer instead
+1. I am a user who is currently a member of another gym looking at what GYM CITY has to offer instead
 1. I am a manager of a different gym looking at what the competition has to offer
 1. I am a user who primarily uses a mobile phone and would like the website to function and look good on my mobile
 1. I am a user who is trying to find out the locations of GYM CITY in the UK
@@ -35,26 +35,27 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 ## Design Process
 
 1. I started my process by planning out what I wanted to include in my website and what the pages should be. I settled on including a "Home Page", "Locations Page", "Gallery Page" and a. "Sign Up Page". 
-1. I wanted to keep my website aesthetically pleasing so I decied on a simple but nice to look at colour scheme and one font to use throughout the entire webpage. The colours and font I used were: <br>
+1. I wanted to keep my website aesthetically pleasing, so I decided on a simple but nice to look at colour scheme and one font to use throughout the entire web page. The colours and font I used were: <br>
    #fafafa <br>
    #16A5B9 <br>
    Red Hat Display <br>
-I found this combination nice to look at yet still maintained the modern streamlined appearence I was aiming for.
-1. I wireframed my project using FIGMA. I used the colour wheel to find the exact shade I wanted and used this throughout the project. I created my pages for desktop layout first setting out the basics of the page and once that was completed i made the mobile version for the website. I made changes throughout the design process following input by family, friends and my mentor
-1. I then took this wireframe and proceeded to putting it together on gitpod, changing some minor aspects of teh website and adding new feautres that i discovered along the way. The main change i mae was adding the "Gallery Page" which initially wasnt on my wireframe.
+ I found this combination nice to look at yet still maintained the modern, streamlined appearance I was aiming for.
+1. I wireframed my project using FIGMA. I used the colour wheel to find the exact shade I wanted and used this throughout the project. I created my pages for desktop layout first setting out the basics of the page and once that was completed I made the mobile version of the website. I made changes throughout the design process following input from family, friends and my mentor
+1. I then took this wireframe and proceeded to put it together on gitpod, changing some minor aspects of the website and adding new features that I discovered along the way. The main change I made was adding the "Gallery Page" which initially wasn't on my wireframe.
+
 
 ## Figma Wireframe
 > This includes the wireframes for both desktop and mobile device layouts
 <img src="assets/images/figma.jpg">
 
-Throughout the process of coding my website and input from other people, a few improvements were made to the website to not only make it look more proffesional but also to include more useful features.
+Throughout the process of coding my website and input from other people, a few improvements were made to the website to not only make it look more profesional but also to include more useful features.
 
 
 # Features
 
 ## Feaures throughout pages
-* A Navigation bar header which includes a GYM CITY logo which takes you back to he home page, a join us button which takes you to the Sign up page and a burger drop down menu button which shows the links to all 4 pages. When hovering over any part of the navbar the text becomes orange
-* A back to the top button availabe at the bottom of every page, when clickeed automatically acrolls back to the top
+* A Navigation bar header which includes a GYM CITY logo which takes you back to the home page, a join us button which takes you to the Sign up page and a burger drop down menu button which shows the links to all 4 pages. When hovering over any part of the navbar the text becomes orange
+* A back to the top button available at the bottom of every page, when clicked automatically scrolls back to the top
 * Footer remains the same across all pages with social media links turning orange when hovering over them
 
 ## Home
@@ -64,10 +65,10 @@ Throughout the process of coding my website and input from other people, a few i
 * Cards showing the managers and content about the gym
 
 ## Locations
-* Three images of each city, when click on the text of one it scrolls down to the part og the page where it talks about that gym
+* Three images of each city, when click on the text of one it scrolls down to the part of the page where it talks about that gym
 * Embedded maps showing the locations
 * Information and pictures of each facility
-* Join us button redrecting to the sign up page when clicked
+* Join us button, redirecting to the sign up page when clicked
 
 ## Gallery
 * Images on a responsive grid of all the gyms
@@ -85,7 +86,7 @@ Throughout the process of coding my website and input from other people, a few i
 * CSS3
   * Used to style the HTML code
 * Bootstrap Framework
-  * Used Bootstraps grid system and styles for buttons to help the webpage be more responsive for mobile layouts
+  * Used Bootstraps grid system and styles for buttons to help the web page be more responsive for mobile layouts
 * FontAwesome
   * Used 3 different FontAwesome icons for my website
 * Google Fonts
@@ -93,7 +94,7 @@ Throughout the process of coding my website and input from other people, a few i
 * Google Images
   * Used for all of my images, each was checked to be copyright free
 * W3C Schools
-  * USed for help on code in my project, i found it very useful for my form and galery page
+  * Used for help with the code in my project, I found it very useful for my form and gallery page
 * W3C Markup Validation
   * Used this to check that my HTML and CSS code were both valid throughout my project
 * Stack Overflow
