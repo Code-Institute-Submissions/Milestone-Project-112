@@ -44,6 +44,7 @@ I found this combination nice to look at yet still maintained the modern streaml
 1. I then took this wireframe and proceeded to putting it together on gitpod, changing some minor aspects of teh website and adding new feautres that i discovered along the way. The main change i mae was adding the "Gallery Page" which initially wasnt on my wireframe.
 
 ## Figma Wireframe
+> This includes the wireframes for both desktop and mobile device layouts
 <img src="assets/images/figma.jpg">
 
 Throughout the process of coding my website and input from other people, a few improvements were made to the website to not only make it look more proffesional but also to include more useful features.
