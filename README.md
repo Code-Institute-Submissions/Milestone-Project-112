@@ -155,22 +155,22 @@ The content of my website is fictional written by me and is not a real gym
 
 Images I used were free to use but came from the following websites
 
-* Pexels
-* Google Images
+* [Pexels](https://www.pexels.com)
+* [Google Images](https://www.google.co.uk/imghp?hl=en&tab=wi&authuser=0&ogbl)
 
 Code snippets that I used for my spinning boxes and review box came from teh following website
 
-* CodePen
+* [CodePen](https://codepen.io)
 
 ## Acknowledgments
 
 # Pages for information
 
-* Stack Overflow
-* W3schools
-* W3c
-* CodePen
-* Bootstrap
+* [Stack Overflow](https://stackoverflow.com)
+* [W3schools](https://www.w3schools.com)
+* [W3c](https://validator.w3.org)
+* [CodePen](https://codepen.io)
+* [Bootstrap](https://getbootstrap.com)
 
 Thank you to the following fr the support on issues and for offering advice on my project throughout:
 * Code Institute Mentor Seun Owonikoko
