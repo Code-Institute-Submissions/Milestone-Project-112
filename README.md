@@ -101,3 +101,31 @@ Throughout the process of coding my website and input from other people, a few i
   * I used this to help me with small issues I encountered when writing my code
 * CodePen
   * I used this to learn how to implement spinning cards and the review box in my project
+
+
+# Testing
+## Testing User Stories
+
+
+1. The user wanted to join the gym, to reach the sign up page only required one click on the join us button in the navigation bar, they then filled in the form and clicked the submit button, filling in each field as required
+1. The user wished to see what GYM CITY had to offer versus their current gym, to find this information out they scrolled down on the main page to read what the gym has to offer along with the membership prices and features for each one. They then in two clicks go to the dropdown menu and select locations, once page loaded they can scroll through and read about what each facility offers and where it is. They can also view the gallery page from the dropdown menu to view more images of the facilities.
+1. The user wanting to see what the competition has to offer can do the same as the user wanting to see what the gym is like viewing the home, gallery and location pages in only a few clicks
+1. All pages are responsive on mobile devices so the user on their phone will have no problem navigating the site
+1. The user wanting to see locations only has to open the dropdown menu and click the locations page to be able to see the embedded maps
+
+## Testing Devices
+
+
+My webpage was tested using Google Developer Tools to see if its responsive. All devices were tested succesfully includng Iphones, Samsungs and Ipads of different screen sizes
+
+## Validating HTML5 and CSS3 code
+
+My code was tested on the WC3 Validation pages and passed all tests
+
+## Different Browsers
+
+I tested my page on the following browsers and found it worked on all
+
+* Safari
+* Chrome
+* Firefox
