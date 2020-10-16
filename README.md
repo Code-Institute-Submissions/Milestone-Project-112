@@ -60,6 +60,7 @@ Throughout the process of coding my website and input from other people, a few i
 
 ## Home
 * Main Image zooms in when the page loads each time
+* Embedded Youtube promo video for the gym
 * Spinning boxes revealing membership prices and features when hover over
 * Review box showing percentages of how many people vote for each star
 * Cards showing the managers and content about the gym
@@ -85,6 +86,9 @@ Throughout the process of coding my website and input from other people, a few i
   * Base language for the project used to add content to the website
 * CSS3
   * Used to style the HTML code
+
+## Technologies
+
 * [Bootstrap Framework](https://getbootstrap.com)
   * Used Bootstraps grid system and styles for buttons to help the web page be more responsive for mobile layouts
 * [FontAwesome](https://fontawesome.com)
@@ -104,6 +108,7 @@ Throughout the process of coding my website and input from other people, a few i
 
 
 # Testing
+
 ## Testing User Stories
 
 
@@ -157,6 +162,10 @@ Images I used were free to use but came from the following websites
 
 * [Pexels](https://www.pexels.com)
 * [Google Images](https://www.google.co.uk/imghp?hl=en&tab=wi&authuser=0&ogbl)
+
+I got my promo video from:
+
+[YouTube](https://www.youtube.com/watch?v=-Tb4Q-xoP9k&ab_channel=StevenattheMoment)
 
 Code snippets that I used for my spinning boxes and review box came from teh following website
 
