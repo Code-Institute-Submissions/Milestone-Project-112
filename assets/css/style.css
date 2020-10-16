@@ -27,6 +27,7 @@ p {
 	padding-top: 10px;
 	margin-left: 0px;
 	padding-bottom: 10px;
+    text-decoration:none;
 }
 
 #nav-logo {
@@ -61,6 +62,7 @@ p {
 }
 
 .nav-logo a:hover {
+    text-decoration:none;
 	color: orange;
 }
 
@@ -640,12 +642,11 @@ h5 {
 		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(../images/manchester.jpg)no-repeat center center;
 	}
 	.text-pad {
-		padding-left: 5px;
 		width: 100%;
-		text-align: left;
+		text-align: center;
 	}
 	.ourgyms p {
-		text-align: left;
+		text-align: center;
 	}
 }
 
