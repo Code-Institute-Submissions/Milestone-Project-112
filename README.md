@@ -13,7 +13,7 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 
 # UX
 
-## Goals
+### Goals
   
 
   
@@ -23,7 +23,7 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 * To make a responsive and eye catching website across all devices
 
  
-## User Stories
+### User Stories
 
 1. I am a user who would like to sign up to GYM CITY to begin my fitness journey
 1. I am a user who is currently a member of another gym looking at what GYM CITY has to offer instead
@@ -32,7 +32,7 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 1. I am a user who is trying to find out the locations of GYM CITY in the UK
 
 
-## Design Process
+### Design Process
 
 1. I started my process by planning out what I wanted to include in my website and what the pages should be. I settled on including a "Home Page", "Locations Page", "Gallery Page" and a. "Sign Up Page". 
 1. I wanted to keep my website aesthetically pleasing, so I decided on a simple but nice to look at colour scheme and one font to use throughout the entire web page. The colours and font I used were: <br>
@@ -44,7 +44,7 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 1. I then took this wireframe and proceeded to put it together on gitpod, changing some minor aspects of the website and adding new features that I discovered along the way. The main change I made was adding the "Gallery Page" which initially wasn't on my wireframe.
 
 
-## [Figma Wireframe](https://www.figma.com)
+### [Figma Wireframe](https://www.figma.com)
 > This includes the wireframes for both desktop and mobile device layouts
 <img src="assets/images/figma.jpg">
 
@@ -53,41 +53,41 @@ Throughout the process of coding my website and input from other people, a few i
 
 # Features
 
-## Feaures throughout pages
+### Feaures throughout pages
 * A Navigation bar header which includes a GYM CITY logo which takes you back to the home page, a join us button which takes you to the Sign up page and a burger drop down menu button which shows the links to all 4 pages. When hovering over any part of the navbar the text becomes orange
 * A back to the top button available at the bottom of every page, when clicked automatically scrolls back to the top
 * Footer remains the same across all pages with social media links turning orange when hovering over them
 
-## Home
+### Home
 * Main Image zooms in when the page loads each time
 * Embedded Youtube promo video for the gym
 * Spinning boxes revealing membership prices and features when hover over
 * Review box showing percentages of how many people vote for each star
 * Cards showing the managers and content about the gym
 
-## Locations
+### Locations
 * Three images of each city, when click on the text of one it scrolls down to the part of the page where it talks about that gym
 * Embedded maps showing the locations
 * Information and pictures of each facility
 * Join us button, redirecting to the sign up page when clicked
 
-## Gallery
+### Gallery
 * Images on a responsive grid of all the gyms
 
-## Sign Up
+### Sign Up
 * Form for user to fill in so they can sign up, all fields are required and includes a dropdown menu for the type of membership
 * Link to the email for other enquiries which opens in a new tab
 * Three cards showing the membership prices and what they include
 
 # Technologies Used
 
-## Languages
+### Languages
 * HTML5
   * Base language for the project used to add content to the website
 * CSS3
   * Used to style the HTML code
 
-## Technologies
+### Technologies
 
 * [Bootstrap Framework](https://getbootstrap.com)
   * Used Bootstraps grid system and styles for buttons to help the web page be more responsive for mobile layouts
@@ -109,7 +109,7 @@ Throughout the process of coding my website and input from other people, a few i
 
 # Testing
 
-## Testing User Stories
+### Testing User Stories
 
 
 1. The user wanted to join the gym, to reach the sign up page only required one click on the join us button in the navigation bar, they then filled in the form and clicked the submit button, filling in each field as required
@@ -118,16 +118,16 @@ Throughout the process of coding my website and input from other people, a few i
 1. All pages are responsive on mobile devices so the user on their phone will have no problem navigating the site
 1. The user wanting to see locations only has to open the dropdown menu and click the locations page to be able to see the embedded maps
 
-## Testing Devices
+### Testing Devices
 
 
 My webpage was tested using Google Developer Tools to see if its responsive. All devices were tested succesfully includng Iphones, Samsungs and Ipads of different screen sizes
 
-## Validating HTML5 and CSS3 code
+### Validating HTML5 and CSS3 code
 
 My code was tested on the WC3 Validation pages and passed all tests
 
-## Different Browsers
+### Different Browsers
 
 I tested my page on the following browsers and found it worked on all
 
@@ -135,13 +135,13 @@ I tested my page on the following browsers and found it worked on all
 * Chrome
 * Firefox
 
-## Issues
+### Issues
 
 When writing my code I intended on having the back to top button always on the screen however that required JavScript so i had to fix that to the bottom of the page instead. I also had a few issues with the path file for the images I uploaded however that was fixed after some research on stack overflow.
 
 # Deployment
 
-## Deploying
+### Deploying
 
 I created my Milestone project using the GitPod environment and pushing it to Github after compelting each section, this made sure that my project had good version control in place incase I needed to change some of the work. To creat a live version of my project for people to view I did the following:
 
@@ -152,11 +152,11 @@ I created my Milestone project using the GitPod environment and pushing it to Gi
 
 # Credits
 
-## Content
+### Content
 
 The content of my website is fictional written by me and is not a real gym
 
-## Media
+### Media
 
 Images I used were free to use but came from the following websites
 
@@ -171,7 +171,7 @@ Code snippets that I used for my spinning boxes and review box came from teh fol
 
 * [CodePen](https://codepen.io)
 
-## Acknowledgments
+### Acknowledgments
 
 # Pages for information
 
