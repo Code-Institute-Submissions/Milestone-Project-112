@@ -171,6 +171,20 @@ p {
     margin-bottom: 100px;
 }
 
+/*--------------------------------------------------App*/
+
+.app{
+    padding-top:50px;
+    text-align:center;
+    padding-bottom:50px;
+}
+
+.app li{
+    list-style:none;
+    color:black;
+    padding-top: 20px;
+}
+
 
 /*--------------------------------------------------Our Team*/
 
