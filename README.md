@@ -44,7 +44,7 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 1. I then took this wireframe and proceeded to put it together on gitpod, changing some minor aspects of the website and adding new features that I discovered along the way. The main change I made was adding the "Gallery Page" which initially wasn't on my wireframe.
 
 
-## [Figma](https://www.figma.com) Wireframe
+## [Figma Wireframe](https://www.figma.com)
 > This includes the wireframes for both desktop and mobile device layouts
 <img src="assets/images/figma.jpg">
 
@@ -165,7 +165,7 @@ Images I used were free to use but came from the following websites
 
 I got my promo video from:
 
-[YouTube](https://www.youtube.com/watch?v=-Tb4Q-xoP9k&ab_channel=StevenattheMoment)
+* [YouTube](https://www.youtube.com/watch?v=-Tb4Q-xoP9k&ab_channel=StevenattheMoment)
 
 Code snippets that I used for my spinning boxes and review box came from teh following website
 
