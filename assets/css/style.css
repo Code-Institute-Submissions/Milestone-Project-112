@@ -185,6 +185,12 @@ p {
     padding-top: 20px;
 }
 
+@media screen and (max-width: 600px) {
+    .app h1{
+        padding-top:20px;
+    }
+
+}
 
 /*--------------------------------------------------Our Team*/
 
