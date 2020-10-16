@@ -64,6 +64,7 @@ Throughout the process of coding my website and input from other people, a few i
 * Spinning boxes revealing membership prices and features when hover over
 * Review box showing percentages of how many people vote for each star
 * Cards showing the managers and content about the gym
+* Section showing app gor fym with small description
 
 ### Locations
 * Three images of each city, when click on the text of one it scrolls down to the part of the page where it talks about that gym
