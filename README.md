@@ -44,7 +44,7 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 1. I then took this wireframe and proceeded to put it together on gitpod, changing some minor aspects of the website and adding new features that I discovered along the way. The main change I made was adding the "Gallery Page" which initially wasn't on my wireframe.
 
 
-## Figma Wireframe
+## [Figma](https://www.figma.com) Wireframe
 > This includes the wireframes for both desktop and mobile device layouts
 <img src="assets/images/figma.jpg">
 
@@ -85,19 +85,95 @@ Throughout the process of coding my website and input from other people, a few i
   * Base language for the project used to add content to the website
 * CSS3
   * Used to style the HTML code
-* Bootstrap Framework
+* [Bootstrap Framework](https://getbootstrap.com)
   * Used Bootstraps grid system and styles for buttons to help the web page be more responsive for mobile layouts
-* FontAwesome
+* [FontAwesome](https://fontawesome.com)
   * Used 3 different FontAwesome icons for my website
-* Google Fonts
+* [Google Fonts](https://fonts.google.com)
   * Used the Red Hat Display font from here
-* Google Images
+* [Google Images](https://www.google.co.uk/imghp?hl=en&tab=wi&authuser=0&ogbl)
   * Used for all of my images, each was checked to be copyright free
-* W3C Schools
+* [W3 Schools](https://www.w3schools.com)
   * Used for help with the code in my project, I found it very useful for my form and gallery page
-* W3C Markup Validation
+* [W3C Markup Validation](https://validator.w3.org)
   * Used this to check that my HTML and CSS code were both valid throughout my project
-* Stack Overflow
+* [Stack Overflow](https://stackoverflow.com)
   * I used this to help me with small issues I encountered when writing my code
-* CodePen
+* [CodePen](https://codepen.io)
   * I used this to learn how to implement spinning cards and the review box in my project
+
+
+# Testing
+## Testing User Stories
+
+
+1. The user wanted to join the gym, to reach the sign up page only required one click on the join us button in the navigation bar, they then filled in the form and clicked the submit button, filling in each field as required
+1. The user wished to see what GYM CITY had to offer versus their current gym, to find this information out they scrolled down on the main page to read what the gym has to offer along with the membership prices and features for each one. They then in two clicks go to the dropdown menu and select locations, once page loaded they can scroll through and read about what each facility offers and where it is. They can also view the gallery page from the dropdown menu to view more images of the facilities.
+1. The user wanting to see what the competition has to offer can do the same as the user wanting to see what the gym is like viewing the home, gallery and location pages in only a few clicks
+1. All pages are responsive on mobile devices so the user on their phone will have no problem navigating the site
+1. The user wanting to see locations only has to open the dropdown menu and click the locations page to be able to see the embedded maps
+
+## Testing Devices
+
+
+My webpage was tested using Google Developer Tools to see if its responsive. All devices were tested succesfully includng Iphones, Samsungs and Ipads of different screen sizes
+
+## Validating HTML5 and CSS3 code
+
+My code was tested on the WC3 Validation pages and passed all tests
+
+## Different Browsers
+
+I tested my page on the following browsers and found it worked on all
+
+* Safari
+* Chrome
+* Firefox
+
+## Issues
+
+When writing my code I intended on having the back to top button always on the screen however that required JavScript so i had to fix that to the bottom of the page instead. I also had a few issues with the path file for the images I uploaded however that was fixed after some research on stack overflow.
+
+# Deployment
+
+## Deploying
+
+I created my Milestone project using the GitPod environment and pushing it to Github after compelting each section, this made sure that my project had good version control in place incase I needed to change some of the work. To creat a live version of my project for people to view I did the following:
+
+* Went to my Milestone Project repository on GitHub
+* Went to settings and scrolled down to GitHub Pages
+* Selected the master branch as source which then gave me the link to include in my ReadMe for people to view
+* You can view my project here: Gym City
+
+# Credits
+
+## Content
+
+The content of my website is fictional written by me and is not a real gym
+
+## Media
+
+Images I used were free to use but came from the following websites
+
+* [Pexels](https://www.pexels.com)
+* [Google Images](https://www.google.co.uk/imghp?hl=en&tab=wi&authuser=0&ogbl)
+
+Code snippets that I used for my spinning boxes and review box came from teh following website
+
+* [CodePen](https://codepen.io)
+
+## Acknowledgments
+
+# Pages for information
+
+* [Stack Overflow](https://stackoverflow.com)
+* [W3schools](https://www.w3schools.com)
+* [W3c](https://validator.w3.org)
+* [CodePen](https://codepen.io)
+* [Bootstrap](https://getbootstrap.com)
+
+Thank you to the following fr the support on issues and for offering advice on my project throughout:
+* Code Institute Mentor Seun Owonikoko
+* Code Institute Tutor
+* Code Institute Slack Community
+* Family and friends for constructive criticism
