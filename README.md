@@ -1,6 +1,6 @@
 # GYM CITY : A Gym Website
 
-[Live Demo](https://ryanjbm.github.io/Milestone-Project-1/)
+[Live Version](https://ryanjbm.github.io/Milestone-Project-1/)
 
 <img src="assets/images/responsive.jpg">
 
@@ -44,7 +44,7 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 1. I then took this wireframe and proceeded to put it together on gitpod, changing some minor aspects of the website and adding new features that I discovered along the way. The main change I made was adding the "Gallery Page" which initially wasn't on my wireframe.
 
 
-### [Figma Wireframe](https://www.figma.com)
+# [Figma Wireframe](https://www.figma.com)
 > This includes the wireframes for both desktop and mobile device layouts
 <img src="assets/images/figma.jpg">
 
