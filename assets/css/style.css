@@ -27,6 +27,7 @@ p {
 	padding-top: 10px;
 	margin-left: 0px;
 	padding-bottom: 10px;
+    text-decoration:none;
 }
 
 #nav-logo {
@@ -61,8 +62,13 @@ p {
 	padding-top: 30px;
 }
 
+<<<<<<< HEAD
 #nav-logo a:hover {
     
+=======
+.nav-logo a:hover {
+    text-decoration:none;
+>>>>>>> 570dbe68d37e73ad5fab7118704472a5203c8e50
 	color: orange;
 }
 
@@ -113,10 +119,10 @@ p {
 	overflow: hidden;
 }
 
-.hero {
+#hero {
 	width: 100%;
 	height: 800px;
-	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/gym.png)no-repeat center center;
+	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(../images/hero-image.jpg)no-repeat center center;
 	animation-name: hero-zoom;
 	animation-duration: 5s;
 	animation-fill-mode: forwards;
@@ -170,8 +176,29 @@ p {
 .offer-you p {
 	padding-top: 0px;
 	font-size: 100%;
+    margin-bottom: 100px;
 }
 
+/*--------------------------------------------------App*/
+
+.app{
+    padding-top:50px;
+    text-align:center;
+    padding-bottom:50px;
+}
+
+.app li{
+    list-style:none;
+    color:black;
+    padding-top: 20px;
+}
+
+@media screen and (max-width: 600px) {
+    .app h1{
+        padding-top:20px;
+    }
+
+}
 
 /*--------------------------------------------------Our Team*/
 
@@ -403,7 +430,7 @@ h5 {
 
 #reviews {
 	overflow: hidden;
-	margin-top: 100px;
+	margin-top: 60px;
 	margin-bottom: 50px;
 }
 
@@ -463,21 +490,21 @@ h5 {
 	object-fit: cover;
 	width: 100%;
 	height: 800px;
-	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/newcastle1.jpg)no-repeat center center;
+	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(../images/newcastle.jpg)no-repeat center center;
 }
 
 .london {
 	object-fit: cover;
 	width: 100%;
 	height: 800px;
-	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/london1.jpg)no-repeat center center;
+	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(../images/london.jpg)no-repeat center center;
 }
 
 .manchester {
 	object-fit: cover;
 	width: 100%;
 	height: 800px;
-	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/manchester1.jpg)no-repeat center center;
+	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(../images/manchester.jpg)no-repeat center center;
 }
 
 .loc-cover a {
@@ -575,17 +602,17 @@ h5 {
 	.newcastle {
 		width: 100%;
 		height: 600px;
-		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/newcastle1.jpg)no-repeat center center;
+		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(../images/newcastle.jpg)no-repeat center center;
 	}
 	.london {
 		width: 100%;
 		height: 600px;
-		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/london1.jpg)no-repeat center center;
+		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(../images/london.jpg)no-repeat center center;
 	}
 	.manchester {
 		width: 100%;
 		height: 600px;
-		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/manchester1.jpg)no-repeat center center;
+		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(../images/manchester.jpg)no-repeat center center;
 	}
 	.map-pad {
 		display: none;
@@ -608,25 +635,24 @@ h5 {
 	.newcastle {
 		width: 100%;
 		height: 200px;
-		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/newcastle1.jpg)no-repeat center center;
+		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(../images/newcastle.jpg)no-repeat center center;
 	}
 	.london {
 		width: 100%;
 		height: 200px;
-		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/london1.jpg)no-repeat center center;
+		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(../images/london.jpg)no-repeat center center;
 	}
 	.manchester {
 		width: 100%;
 		height: 200px;
-		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/manchester1.jpg)no-repeat center center;
+		background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(../images/manchester.jpg)no-repeat center center;
 	}
 	.text-pad {
-		padding-left: 5px;
 		width: 100%;
-		text-align: left;
+		text-align: center;
 	}
 	.ourgyms p {
-		text-align: left;
+		text-align: center;
 	}
 }
 
@@ -636,7 +662,7 @@ h5 {
 .sign-up-pic {
 	width: 100%;
 	height: 800px;
-	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(/assets/images/signup.jpg)no-repeat center center;
+	background: linear-gradient(180deg, rgba(14, 13, 13, 0.76) 0%, rgba(49, 41, 41, 0.67) 99.99%, rgba(255, 255, 255, 0) 100%), url(../images/signup.jpg)no-repeat center center;
 }
 
 .signup-cover {
