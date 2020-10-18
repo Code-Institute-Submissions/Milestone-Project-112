@@ -31,7 +31,7 @@ p {
 
 #nav-logo {
 	padding-left: 110px;
-	text-decoration: none;
+	
 }
 
 .links {
@@ -47,9 +47,10 @@ p {
 	color: #16A5B9;
 	font-size: 30px;
 }
-
-#login a,
-.nav-logo a {
+#logo a{
+    text-decoration: none;
+}
+#login a{
 	text-decoration: none;
 }
 
@@ -60,7 +61,8 @@ p {
 	padding-top: 30px;
 }
 
-.nav-logo a:hover {
+#nav-logo a:hover {
+    
 	color: orange;
 }
 
@@ -743,6 +745,7 @@ h5 {
 }
 
 .top-btn {
+    padding-top:20px;
 	text-align: right;
 	padding-bottom: 20px;
 	padding-right: 20px;
