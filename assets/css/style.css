@@ -698,10 +698,6 @@ h5 {
 	font-size: 20px;
 }
 
-#mobile-signup {
-	display: none;
-}
-
 @media screen and (max-width: 1000px) {
 	.signup-cover {
 		top: 10%;
@@ -713,16 +709,13 @@ h5 {
 	.signup-cover input {
 		margin-bottom: 20px;
 	}
-	#mobile-signup {
-		display: block;
-	}
-	#mobile-signup form {
-		padding-right: 25px;
-		width: 90%;
-	}
-	#signup-form {
-		display: none;
-	}
+
+    .signup-cover form {
+        width: 100%;
+        padding-left:10px;
+        padding-right:40px;
+
+    }
 }
 
 
