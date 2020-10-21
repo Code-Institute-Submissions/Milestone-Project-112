@@ -7,9 +7,9 @@
 
 # Introduction
 
-Gym City is a web page built to get users to sign up to the gym as well as informing them of the locations, facilities, prices and members of staff. Personally, I have always been passionate about fitness so the opportunity to build a website for a gym excited me, I made the website user friendly and including the content that I'd like to see if I were going to join a new gym.
+Gym City is a web page built to get users to sign up to the gym as well as informing them of the locations, facilities, prices and members of staff. Personally, I have always been passionate about fitness so the opportunity to build a website for a gym excited me, I made the website user friendly and included the content that I'd like to see if I were going to join a new gym.
 
-This is my first Milestone Project for my Full Stack Development Program at Code Institute, in which i was given instructions to make a static and responsive website including at least 3 pages. In creating this website I used CSS3 and HTML5.
+This is my first Milestone Project for my Full Stack Development Program at Code Institute, in which I was given instructions to make a static and responsive website including at least 3 pages. In creating this website I used CSS3 and HTML5.
 
 # UX
 
@@ -48,12 +48,12 @@ This is my first Milestone Project for my Full Stack Development Program at Code
 > This includes the wireframes for both desktop and mobile device layouts
 <img src="assets/images/figma.jpg">
 
-Throughout the process of coding my website and input from other people, a few improvements were made to the website to not only make it look more profesional but also to include more useful features.
+Throughout the process of coding my website and input from other people, a few improvements were made to the website to not only make it look more professional but also to include more useful features.
 
 
 # Features
 
-### Feaures throughout pages
+### Features throughout pages
 * A Navigation bar header which includes a GYM CITY logo which takes you back to the home page, a join us button which takes you to the Sign up page and a burger drop down menu button which shows the links to all 4 pages. When hovering over any part of the navbar the text becomes orange
 * A back to the top button available at the bottom of every page, when clicked automatically scrolls back to the top
 * Footer remains the same across all pages with social media links turning orange when hovering over them
@@ -64,7 +64,7 @@ Throughout the process of coding my website and input from other people, a few i
 * Spinning boxes revealing membership prices and features when hover over
 * Review box showing percentages of how many people vote for each star
 * Cards showing the managers and content about the gym
-* Section showing app gor fym with small description
+* Section showing app for gym with small description
 
 ### Locations
 * Three images of each city, when click on the text of one it scrolls down to the part of the page where it talks about that gym
@@ -91,7 +91,7 @@ Throughout the process of coding my website and input from other people, a few i
 ### Technologies
 
 * [Bootstrap Framework](https://getbootstrap.com)
-  * Used Bootstraps grid system and styles for buttons to help the web page be more responsive for mobile layouts
+  * Used Bootstrap's grid system and styles for buttons to help the web page be more responsive for mobile layouts
 * [FontAwesome](https://fontawesome.com)
   * Used 3 different FontAwesome icons for my website
 * [Google Fonts](https://fonts.google.com)
@@ -122,7 +122,7 @@ Throughout the process of coding my website and input from other people, a few i
 ### Testing Devices
 
 
-My webpage was tested using Google Developer Tools to see if its responsive. All devices were tested succesfully includng Iphones, Samsungs and Ipads of different screen sizes
+My webpage was tested using Google Developer Tools to see if its responsive. All devices were tested successfully including Iphones, Samsungs and Ipads of different screen sizes
 
 ### Validating HTML5 and CSS3 code
 
@@ -144,7 +144,7 @@ When writing my code I intended on having the back to top button always on the s
 
 ### Deploying
 
-I created my Milestone project using the GitPod environment and pushing it to Github after compelting each section, this made sure that my project had good version control in place incase I needed to change some of the work. To creat a live version of my project for people to view I did the following:
+I created my Milestone project using the GitPod environment and pushing it to Github after completing each section, this made sure that my project had good version control in place in case I needed to change some of the work. To create a live version of my project for people to view I did the following:
 
 * Went to my Milestone Project repository on GitHub
 * Went to settings and scrolled down to GitHub Pages
@@ -159,7 +159,7 @@ The content of my website is fictional written by me and is not a real gym
 
 ### Media
 
-Images I used were free to use but came from the following websites
+Images I used were free to use but came from the following websites:
 
 * [Pexels](https://www.pexels.com)
 * [Google Images](https://www.google.co.uk/imghp?hl=en&tab=wi&authuser=0&ogbl)
@@ -168,7 +168,7 @@ I got my promo video from:
 
 * [YouTube](https://www.youtube.com/watch?v=-Tb4Q-xoP9k&ab_channel=StevenattheMoment)
 
-Code snippets that I used for my spinning boxes and review box came from teh following website
+Code snippets that I used for my spinning boxes and review box came from the following website:
 
 * [CodePen](https://codepen.io)
 
@@ -182,7 +182,7 @@ Code snippets that I used for my spinning boxes and review box came from teh fol
 * [CodePen](https://codepen.io)
 * [Bootstrap](https://getbootstrap.com)
 
-Thank you to the following fr the support on issues and for offering advice on my project throughout:
+Thank you to the following for the support on issues and for offering advice on my project throughout:
 * Code Institute Mentor Seun Owonikoko
 * Code Institute Tutor
 * Code Institute Slack Community
