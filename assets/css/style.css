@@ -44,7 +44,7 @@ html, body {
   font-family: inherit;
   color: inherit;
   list-style: none;
-  font-size: 18px;
+  font-size: 1.5rem;
 }
 
 #menu-button {
@@ -63,7 +63,7 @@ html, body {
 
 #login {
   float: right;
-  font-size: 10px;
+  font-size: 1rem;
   color: inherit;
   padding-top: 30px;
 }
@@ -176,7 +176,7 @@ html, body {
 
 .offer-you p {
   padding-top: 0px;
-  font-size: 100%;
+  font-size: 1.5rem;
   margin-bottom: 100px;
 }
 
@@ -189,6 +189,7 @@ html, body {
 }
 
 .app li {
+    font-size: 1rem;
   list-style: none;
   color: black;
   padding-top: 20px;
@@ -225,7 +226,7 @@ html, body {
 
 .title {
   color: #16A5B9;
-  font-size: 100%;
+  font-size: 1rem;
 }
 
 .team-card p {
@@ -242,7 +243,7 @@ html, body {
   text-align: center;
   cursor: pointer;
   width: 100%;
-  font-size: 100%;
+  font-size: 1rem;
 }
 
 .team-card button:hover,
@@ -253,7 +254,7 @@ a:hover {
 
 .team-card a {
   float: left;
-  font-size: 100%;
+  font-size: 1rem;
   color: #16A5B9;
 }
 
@@ -370,12 +371,12 @@ h5 {
 
 .card-text {
   list-style: none;
-  font-size: 100%;
+  font-size: 1rem;
   padding-top: 15px;
 }
 
 .card-text h1 {
-  font-size: 25px;
+  font-size: 1.5rem;
   padding-top: 20px;
 }
 
@@ -406,7 +407,7 @@ h5 {
 
   .our-team p {
     text-align: center;
-    font-size: 15px;
+    font-size: 1rem;
   }
 }
 
@@ -425,11 +426,11 @@ h5 {
 .boxed h1 {
   padding-top: 10px;
   text-transform: uppercase;
-  font-size: 30px;
+  font-size: 2rem;
 }
 
 .mob-card-text {
-  font-size: 20px;
+  font-size: 1rem;
   list-style: none;
   text-align: center;
 }
@@ -450,17 +451,17 @@ h5 {
 .badge {
   background-color: #16a5b9;
   color: #fafafa;
-  font-size: 25px;
+  font-size: 2rem;
   font-weight: 200;
 }
 
 .badge i {
-  font-size: 20px;
+  font-size: 1.5rem;
   font-weight: 200;
 }
 
 .about-rating {
-  font-size: 15px;
+  font-size: 1rem;
   font-weight: 500;
   margin-top: 10px;
 }
@@ -552,7 +553,7 @@ h5 {
 
 #maps h3 {
   color: black;
-  font-size: 20px;
+  font-size: 1.5rem;
 }
 
 #maps li {
@@ -606,7 +607,7 @@ h5 {
 
 @media screen and (max-width: 1000px) {
   .loc-cover h1 {
-    font-size: 20px;
+    font-size: 1.5rem;
   }
 
   .newcastle {
@@ -634,7 +635,7 @@ h5 {
   .text-pad {
     margin-left: auto;
     margin-right: auto;
-    font-size: 20px;
+    font-size: 1.2rem;
     text-align: center;
     width: 500px;
   }
@@ -702,7 +703,7 @@ h5 {
 .signup-cover label {
   float: left;
   color: #fafafa;
-  font-size: 20px;
+  font-size: 1.2rem;
 }
 
 .signup-cover input {
@@ -720,7 +721,7 @@ h5 {
   color: black;
   padding-top: 30px;
   padding-bottom: 30px;
-  font-size: 20px;
+  font-size: 1.2rem;
 }
 
 @media screen and (max-width: 1366px) {
@@ -788,7 +789,7 @@ h5 {
   text-align: right;
   padding-bottom: 20px;
   padding-right: 20px;
-  font-size: 10px;
+  font-size: 1rem;
 }
 
 
