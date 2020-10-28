@@ -25,6 +25,13 @@ html, body {
     overflow-x: hidden;
 }
 
+.widths {
+    width:100%;
+}
+
+.heights {
+    height:100%;
+}
 
 /*--------------------------------------------------Nav*/
 
