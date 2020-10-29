@@ -32,6 +32,10 @@ html, body {
 .heights {
     height:100%;
 }
+a {
+    text-decoration:none !important;
+}
+
 
 /*--------------------------------------------------Nav*/
 
@@ -595,6 +599,7 @@ h5 {
 }
 
 .joinbtn {
+    text-decoration:none !important;
   text-align: center;
   padding-bottom: 50px;
 }
