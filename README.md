@@ -149,7 +149,9 @@ I created my Milestone project using the GitPod environment and pushing it to Gi
 * Went to my Milestone Project repository on GitHub
 * Went to settings and scrolled down to GitHub Pages
 * Selected the master branch as source which then gave me the link to include in my ReadMe for people to view
-* You can view my project here: Gym City
+* You can view my project here: [Gym City](https://ryanjbm.github.io/Milestone-Project-1/)
+
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/ryanjbm/Milestone-Project-1.git into the terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 
 # Credits
 
@@ -184,6 +186,7 @@ Code snippets that I used for my spinning boxes and review box came from the fol
 
 Thank you to the following for the support on issues and for offering advice on my project throughout:
 * Code Institute Mentor Seun Owonikoko
+* Code Institute Mentor Brian Macharia
 * Code Institute Tutor
 * Code Institute Slack Community
 * Family and friends for constructive criticism
