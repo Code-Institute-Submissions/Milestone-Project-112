@@ -302,6 +302,8 @@ h5 {
 	padding-bottom: 30px;
 }
 
+/*--Borrowed Code*/
+
 .image-flip:hover .backside,
 .image-flip.hover .backside {
 	-webkit-transform: rotateY(0deg);
@@ -382,6 +384,8 @@ h5 {
 .backside .card .card-title {
 	color: #16A5B9 !important;
 }
+
+/*--End Of Borrowed Code*/
 
 .card-title {
 	padding-top: 100px;
